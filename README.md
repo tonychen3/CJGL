@@ -9,11 +9,12 @@
 + 系统管理：为系统管理员提供管理学生和教师与课程的各种权限与服务。
 
 
-    用到的东西：  
+>用到的东西：  
     JDK1.8.  
     MySQL（在Bitnami的容器中）  
     IntelliJ IDEA（开发所需）  
     JFormDesigner（开发时使用的是idea插件版的）  
     
-系统用例图：
+
+>系统用例图：
 ![这里是系统用例图](https://github.com/tonychen3/CJGL/raw/master/学生成绩管理系统用例图.jpg)
