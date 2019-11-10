@@ -17,4 +17,5 @@
     
 
 >系统用例图：
-![这里是系统用例图](https://github.com/tonychen3/CJGL/raw/master/学生成绩管理系统用例图.jpg)
+[这里是系统用例图](https://github.com/tonychen3/CJGL/raw/master/学生成绩管理系统用例图.jpg)  
+<img src="https://github.com/tonychen3/CJGL/raw/master/学生成绩管理系统用例图.jpg" width="300" height="380" alt="这里是系统用例图"/>
