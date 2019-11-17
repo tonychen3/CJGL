@@ -44,7 +44,7 @@ new FormModel {
 				} )
 				add( new FormComponent( "javax.swing.JButton" ) {
 					name: "button1"
-					"text": "登录"
+					"text": "登    录"
 				}, new FormLayoutConstraints( class com.intellij.uiDesigner.core.GridConstraints ) {
 					"row": 2
 					"colSpan": 2

@@ -11,7 +11,7 @@
 
 >用到的东西：  
 >- JDK1.8.  
->-  MySQL（在Bitnami的容器中）  
+>-  MySQL Server 5.6（在Bitnami的容器中）  
 >-  IntelliJ IDEA（开发所需）  
 >-  JFormDesigner（开发时使用的是idea插件版的）  
     
